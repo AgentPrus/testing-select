@@ -1,3 +1,6 @@
+# About
+This is an example app for showing how to test HTML select element with react-testing-library
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
